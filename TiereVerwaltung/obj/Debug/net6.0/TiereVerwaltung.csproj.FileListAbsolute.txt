@@ -1,0 +1,15 @@
+C:\Users\anasa\OneDrive\Desktop\Aufgabe-06\TiereVerwaltung\bin\Debug\net6.0\TiereVerwaltung.exe
+C:\Users\anasa\OneDrive\Desktop\Aufgabe-06\TiereVerwaltung\bin\Debug\net6.0\TiereVerwaltung.deps.json
+C:\Users\anasa\OneDrive\Desktop\Aufgabe-06\TiereVerwaltung\bin\Debug\net6.0\TiereVerwaltung.runtimeconfig.json
+C:\Users\anasa\OneDrive\Desktop\Aufgabe-06\TiereVerwaltung\bin\Debug\net6.0\TiereVerwaltung.dll
+C:\Users\anasa\OneDrive\Desktop\Aufgabe-06\TiereVerwaltung\bin\Debug\net6.0\TiereVerwaltung.pdb
+C:\Users\anasa\OneDrive\Desktop\Aufgabe-06\TiereVerwaltung\obj\Debug\net6.0\TiereVerwaltung.csproj.AssemblyReference.cache
+C:\Users\anasa\OneDrive\Desktop\Aufgabe-06\TiereVerwaltung\obj\Debug\net6.0\TiereVerwaltung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anasa\OneDrive\Desktop\Aufgabe-06\TiereVerwaltung\obj\Debug\net6.0\TiereVerwaltung.AssemblyInfoInputs.cache
+C:\Users\anasa\OneDrive\Desktop\Aufgabe-06\TiereVerwaltung\obj\Debug\net6.0\TiereVerwaltung.AssemblyInfo.cs
+C:\Users\anasa\OneDrive\Desktop\Aufgabe-06\TiereVerwaltung\obj\Debug\net6.0\TiereVerwaltung.csproj.CoreCompileInputs.cache
+C:\Users\anasa\OneDrive\Desktop\Aufgabe-06\TiereVerwaltung\obj\Debug\net6.0\TiereVerwaltung.dll
+C:\Users\anasa\OneDrive\Desktop\Aufgabe-06\TiereVerwaltung\obj\Debug\net6.0\refint\TiereVerwaltung.dll
+C:\Users\anasa\OneDrive\Desktop\Aufgabe-06\TiereVerwaltung\obj\Debug\net6.0\TiereVerwaltung.pdb
+C:\Users\anasa\OneDrive\Desktop\Aufgabe-06\TiereVerwaltung\obj\Debug\net6.0\TiereVerwaltung.genruntimeconfig.cache
+C:\Users\anasa\OneDrive\Desktop\Aufgabe-06\TiereVerwaltung\obj\Debug\net6.0\ref\TiereVerwaltung.dll
